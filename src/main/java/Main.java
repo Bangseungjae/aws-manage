@@ -7,7 +7,6 @@ import com.amazonaws.services.ec2.model.*;
 import com.amazonaws.services.simplesystemsmanagement.AWSSimpleSystemsManagement;
 import com.amazonaws.services.simplesystemsmanagement.AWSSimpleSystemsManagementClientBuilder;
 import com.amazonaws.services.simplesystemsmanagement.model.*;
-import software.amazon.awssdk.services.ssm.SsmClient;
 
 import java.util.*;
 import java.util.concurrent.TimeUnit;
